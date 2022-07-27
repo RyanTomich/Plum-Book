@@ -45,4 +45,7 @@ grade_to_honor()
 
 print("This is a tes of github!!")
 
+print("this is the second test of github!! ")
+print("this will test if i can work form both computers")
+
 
