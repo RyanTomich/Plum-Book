@@ -1,3 +1,5 @@
+# This entire structure needs to be rethought and redesigned
+
 # TODO imports and references
 import tkinter as tk
 from tkinter import *
@@ -429,7 +431,7 @@ def update_record():
                 school = :school,
                 season = :season,
                 honor = :honor
-                        
+
             WHERE oid = :oid""", {
                 'first': first_entry.get(),
                 'last': last_entry.get(),
